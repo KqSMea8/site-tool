@@ -28,6 +28,9 @@
   <meta name="msapplication-TileColor" content="#2f83cd">
   <meta name="msapplication-TileImage" content="{{ url_for('icon/mstile-144x144.png') }}">
   <meta name="generator" content="Hexo {{ hexo_version() }}">
+  <!-- SEO -->
+  <meta name="keywords" content="feflow,js,feflowjs,工程化,前端工程化,工作流,前端工作流,规范" />
+  <meta name="robots" content="Index,Follow" />
   <!-- CSS -->
   <!-- build:css build/css/navy.css -->
   {{ css('css/navy') }}
